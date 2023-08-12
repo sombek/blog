@@ -1,10 +1,13 @@
 # Introduction
 
-I want to document my setup process for a new Macbook to become for ready for development
-I was focusing on the following:
+I wanted to document my setup process for a new Macbook to become for ready for development. So I tried to create this document.
+
+I was focused on the following:
 * Clean up the already shipped apps such as `GarageBand`, `iMovie`, etc.
 * Install the apps I need for development such as `JetBrains products`, `iTerm`, etc.
   * And how to make it look nice using [Oh My Zsh](https://ohmyz.sh/) - never was an easy task for me 😮‍💨-
+* Prepare the environment for development such as `Python`, `Node`, `Dotnet`, etc.
+* Extra stuff that would enhance the experience such as `Podman`, `Postman`, etc.
 
 And one of the main reasons I'm doing this is to have a reference for myself in the future, and to know 
 what is the new apps that I should try out.
